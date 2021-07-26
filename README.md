@@ -1,5 +1,9 @@
 # cascading
 
+
+[![DOI](https://zenodo.org/badge/389603706.svg)](https://zenodo.org/badge/latestdoi/389603706)
+
+
 This repository contains code that underlies the publication "Abrupt climate change as a rate-dependent cascading tipping point" by Johannes Lohmann et al.
 The following scripts have been used to perform all simulations presented in the paper.
 
